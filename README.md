@@ -62,6 +62,7 @@ El motor analiza de forma paramétrica y cruzada cada hito del negocio:
 + [Resolución 64/2021]   - Constitución, Fusión y Liquidaciones
 + [Resolución 212/2021]  - Operaciones con cuentas bancarias en CUP y MLC
 + [Gaceta Oficial 2026]   - Normas complementarias de extinción y control tributario
+
 🔒 Manifiesto y Derechos de Autor
 <table>
 <tr>
